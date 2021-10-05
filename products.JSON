@@ -1,0 +1,90 @@
+
+  [ {
+    "key": "1",
+
+    "name": "Artificial Intelligence (AI)",
+    "start": "01-01-2022",
+    "teacher" :	"Hamidur Rahman ",
+    "last": "12-12-2021",
+    "price":100,
+    "alt":"AI",
+    "des":"Learn AI by usage of Deep learning ,create powerful AI for Real-World applications,Compete with AI world Particular applications of AI include expert systems, speech recognition and machine vision. AI can be categorized as either weak or strong. You are going to learn hot topic Ai viia using Deep learning You will some books related to Ai...       ",
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd36ae2cxtn9mcr.cloudfront.net%2Fwp-content%2Fuploads%2F2020%2F12%2F16024303%2FHumanoid.png&f=1&nofb=1"
+},
+{
+    "key": "2",
+
+    "name": "Machine learning",
+    "start": "01-01-2022",
+    "teacher" :"Fokre Alam"	,
+    "last": "12-12-2021",
+    "price":150,
+    "alt":"Machine learning",
+    "des":"Machine Learning: A comprehensive guide to machine learning. Learn machine learning algorithms & machine learning and  detailed and focused treatment of the most important machine learning approaches used in predictive data analytics. and algorithms of machine learning accessible to students in statistics, computer science, mathematics, and engineering....",
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpchtechnologies.com%2Fwp-content%2Fuploads%2F2020%2F08%2FWhat-Is-Machine-Learning.jpg&f=1&nofb=1"
+},
+{
+    "key": "3",
+
+    "name": "Data Science",
+    "start": "01-01-2022",
+    "teacher" :	"Moeen Uddin",
+    "last": "12-12-2021",
+    "price":150,
+    "alt":"Data Science",
+    "des":"Beginners python data analytics : Data science introduction : Learn data science : Python data analysis methods tutorial Complete Guide to Practical Data Science with Python: Learn Statistics, Visualization, Machine Learning & More this is a complete data science training with Python for data analysis :  discord  12 complete sections addressing aspect of Python Data...  ",
+    "img": "https://miro.medium.com/max/15174/1*xX6Cpskem0SbqQuPZ8R-4g.jpeg"
+    
+},
+{
+    "key": "4",
+
+    "name": "React Web Developer",
+    "start": "01-01-2022",
+    "teacher" :	"Jhonkar ",
+    "last": "12-12-2021",
+    "price":80,
+    "alt":"Data Science",
+    "des":"Learn React with React JS, React Native, Router, Hooks and Context course and dive deeper into React Native If you are new to React or maybe you've been struggling to learn and truly understand what’s going on then this course is the best way for you to learn React.   You will learn  React development step-by-step with hands-on demonstrations....",
+    "img": "https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN"
+},
+{
+    "key": "5",
+
+    
+    "name": "Cyber Security",
+    "start": "01-01-2022",
+    "teacher" :	"Maruf Rahman ",
+    "last": "12-12-2021",
+    "price":300,
+    "alt":"Cyber Security",
+    "des": "Learn the basic and vital components of Cyber Security & Cyberspace. In this course you learn cyber security components! Introduction into CYBER Explanation of Cyber Areas such as what cyber is, what are the definitions of cyber war, espionage, crime, etc. Basic components of Cyber Security such as OSINT, Hacking and Criminal Hackers, Hacker Profiles and Forensics, and much more....",
+    "img": "https://d24x5qendt1bag.cloudfront.net/uploads/2018/08/17102912/Key-Areas-Shaping-The-Future-Of-Cyber-Security.jpg"
+},
+{
+    "key": "6",
+
+    "name": "Robotics",
+    "start": "01-01-2022",
+    "teacher" :	"Kowshik Sarkar",
+    "last": "12-12-2021",
+    "price":250,
+    "alt":"Robotics",
+    "des": "Coursework will explore the principles of developmental robotics and will review the application of robotics models and techniques. The principles of developmental robotics The application of robotics models and techniques in areas ranging from intrinsic motivation to motor and perceptual learning, social interaction, language learning, and abstract knowledge...",
+    "img": "https://www.eletimes.com/wp-content/uploads/2018/12/Robotics.jpg"
+    
+},
+{
+    "key": "7",
+
+    "name": "Cisco Networking",
+    "start": "01-01-2022",
+    "teacher" :	"Aslam Sami",
+    "last": "12-12-2021",
+    "price":100,
+    "alt":"Cisco Networking",
+    "des": "CCNA 200-301 covers entry-level networking skills across technologies, such as basic IP fundamentals, network access, IP connectivity, and basics of automation and network programmability, and security fundamental skills, because the breadth of skills is needed when first entering networking. networking beginner networking networking ccna ccna for networking...",
+    "img": "https://images.idgesg.net/images/article/2018/10/supercomputer_servers_data_center_by_maxiphoto_getty_images_1200x800-100776400-large.jpg"
+    
+}
+]
